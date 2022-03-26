@@ -80,4 +80,7 @@ The main function is used to compare the faces of 5 persons with different poses
 
 # Applications
 
+* It is used for attendance marking system.
+* 
+
 
